@@ -212,9 +212,10 @@ img {
   color: var(--first-color);
 }
 .home__img {
-  right: 0;
+  right: -30px;
   position: absolute;
-  bottom: 0;
+  bottom: 60px;
+  top: 90px;
   width: 260px;
 }
 .home__blob {
